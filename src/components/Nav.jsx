@@ -13,10 +13,10 @@ const Nav = () => {
 
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-20">
-          <a href="#hero" className="text-black hover:text-gray-400 font-bold">Home</a>
-          <a href="#projects" className="text-black hover:text-gray-400 font-bold">Projects</a>
-          <a href="#about" className="text-black hover:text-gray-400 font-bold">About</a>
-          <a href="#footer" className="text-black hover:text-gray-400 font-bold">Contact</a>
+          <a href="#hero" className="text-black hover:text-gray-500 font-bold">Home</a>
+          <a href="#projects" className="text-black hover:text-gray-500 font-bold">Projects</a>
+          <a href="#about" className="text-black hover:text-gray-500 font-bold">About</a>
+          <a href="#footer" className="text-black hover:text-gray-500 font-bold">Contact</a>
         </div>
 
         {/* Hamburger Icon */}
