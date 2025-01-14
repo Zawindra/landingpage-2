@@ -12,11 +12,11 @@ const Nav = () => {
         </a>
 
         {/* Desktop Menu */}
-        <div className="hidden md:flex space-x-10">
-          <a href="#hero" className="text-gray-600 hover:text-black font-bold">Home</a>
-          <a href="#projects" className="text-gray-600 hover:text-black font-bold">Projects</a>
-          <a href="#about" className="text-gray-600 hover:text-black font-bold">About</a>
-          <a href="#footer" className="text-gray-600 hover:text-black font-bold">Contact</a>
+        <div className="hidden md:flex space-x-20">
+          <a href="#hero" className="text-black hover:text-gray-400 font-bold">Home</a>
+          <a href="#projects" className="text-black hover:text-gray-400 font-bold">Projects</a>
+          <a href="#about" className="text-black hover:text-gray-400 font-bold">About</a>
+          <a href="#footer" className="text-black hover:text-gray-400 font-bold">Contact</a>
         </div>
 
         {/* Hamburger Icon */}
